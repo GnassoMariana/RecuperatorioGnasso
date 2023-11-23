@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecuperatorioGnasso.Entidades", "RecuperatorioGnasso.Entidades\RecuperatorioGnasso.Entidades.csproj", "{758ACD4E-9978-49BB-B42A-390C0EFE377E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecuperatorioGnasso.Consola", "RecuperatorioGnasso.Consola\RecuperatorioGnasso.Consola.csproj", "{9B0E044B-BB56-4A70-BC04-DF58DF83EF14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758ACD4E-9978-49BB-B42A-390C0EFE377E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758ACD4E-9978-49BB-B42A-390C0EFE377E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758ACD4E-9978-49BB-B42A-390C0EFE377E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758ACD4E-9978-49BB-B42A-390C0EFE377E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0E044B-BB56-4A70-BC04-DF58DF83EF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0E044B-BB56-4A70-BC04-DF58DF83EF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0E044B-BB56-4A70-BC04-DF58DF83EF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0E044B-BB56-4A70-BC04-DF58DF83EF14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F85695F6-F9A8-4F8F-B502-E924771E7675}
+	EndGlobalSection
+EndGlobal
